@@ -2,3 +2,5 @@
 .env
 __pycache__/
 *.pyc
+/calculator/lorem.txt
+/calculator/pkg/morelorem.txt
